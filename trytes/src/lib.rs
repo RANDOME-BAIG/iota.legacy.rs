@@ -1,5 +1,5 @@
 #![no_std]
-#![cfg_attr(any(feature = "alloc", test), feature(alloc))]
+//#![cfg_attr(any(feature = "alloc", test), feature(alloc))]
 
 #[allow(unused_imports)]
 
