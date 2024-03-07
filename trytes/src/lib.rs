@@ -3,7 +3,7 @@
 
 #[allow(unused_imports)]
 
-#[cfg(any(test, feature = "alloc"))]
+//#[cfg(any(test, feature = "alloc"))]
 #[macro_use]
 extern crate alloc;
 
